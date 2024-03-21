@@ -41,4 +41,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Enjoy using TAR Utility GUI for all your TAR packing and extracting needs!
-```
